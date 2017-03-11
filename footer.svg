@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="8mm"
+   viewBox="0 0 744.0945 28.346457"
+   id="svg9640"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="footer.svg">
+  <defs
+     id="defs9642">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1026-3">
+      <path
+         d="m 7760.83,518.23 c -16.09,-50.859 -29.96,-92.468 -29.96,-92.468 27.42,5.758 48.57,-8.133 71.89,-22.032 20.88,-12.441 43.52,-24.878 73.97,-23.199 l 30.08,91.61 c -38.01,-1.102 -60.73,11.058 -80.24,23.218 -18.69,11.641 -34.45,23.293 -57.93,23.293 -2.5,0 -5.11,-0.14 -7.81,-0.422"
+         id="path1028-6"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath970">
+      <path
+         d="M 0.00390625,0 8418.9039,0 l 0,269.301 -8418.89999375,0 0,-269.301 z"
+         id="path972"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="423.91681"
+     inkscape:cy="164.03032"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="1440"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9645">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.5433077,-1027.559)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="300.00052"
+       y="1045.2839"
+       id="text4347-3"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4349-6"
+         x="300.00052"
+         y="1045.2839"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ed1c24;fill-opacity:1">lorem ipsum</tspan></text>
+  </g>
+</svg>
